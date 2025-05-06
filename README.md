@@ -1,2 +1,5 @@
-# Air-Marker
-Air Marker is a gesture-based AR drawing tool that lets users draw in the air using hand movements captured by a webcam, enabling hands-free, intuitive digital sketching with real-time tracking and customizable features.
+Please intall the python libraries required OpenCV Mediapipe using = pip install opencv-python , pip install mediapipe
+
+All files are should be in one folder
+
+Run file named airMarker.py
